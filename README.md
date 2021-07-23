@@ -1,1 +1,1 @@
-# https://vadyanator.github.io/calculator/
+# https://vsuslov29.github.io/calculator/
